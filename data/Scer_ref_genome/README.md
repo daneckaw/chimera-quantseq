@@ -1,7 +1,11 @@
 # Scer_ref_genome
 
 ## Scer_R64_annotation.gff
-This file contains the annotations for the S.cer S288C strain downloaded from Refseq.
+This file contains the annotations for the S.cer S288C strain downloaded from Refseq in GFF format.
+https://www.ncbi.nlm.nih.gov/assembly/GCF_000146045.2/
+
+## Scer_R64_annotation.gtf
+This file contains the annotations for the S.cer S288C strain downloaded from Refseq in GTF format.
 https://www.ncbi.nlm.nih.gov/assembly/GCF_000146045.2/
 
 ## Scer_R64_genome.fa
